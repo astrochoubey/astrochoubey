@@ -1,0 +1,224 @@
+<div align="center">
+
+# Hi there! 👋 I'm <Choubey>
+
+### _Aspiring Theoretical Physicist • Cosmologist • Astrophysicsit_
+
+<img src="images/banner.gif" width="100%">
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=astrochoubey&style=for-the-badge)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](portfolio-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([linkedin](https://www.linkedin.com/in/prachi-choubeyyy/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?hl=en&authuser=1&user=pdxQ6LcAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0008-0481-3021)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:prachichoubey.thenexusphysics@gmail.com)
+
+</div>
+
+---
+
+# 🌌 About Me
+
+```yaml
+Name: Prachi Choubey
+
+University: Newton School of Technology, Rishihood University
+
+Degree: BTech (CS) and BSc (Physics)
+
+Major: CS and Physics
+
+Research Interest:
+  - Inflationary Cosmology
+  - Dark Matter and Dark Energy Physics
+  - Early Universe Physics
+  - Quantum Field Theory
+  - General Relativity
+  - Computational Astrophysics
+  - High Energy Phyiscs
+  - Astroparticle Physics
+
+Languages:
+  - Python
+  - TypeScript
+
+Currently Learning:
+  - Differential Geometry
+  - Quantum Field Theory
+  - General Relativity
+  - Bayesian Inference
+  -
+
+Current Goal: Reproduce landmark cosmology papers and contribute
+  to open-source scientific software.
+```
+
+---
+
+# 🔭 Current Research
+
+- 📖 Reading: **< Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant>**
+- 🧠 Studying: **< Cosmic Inflation and Cosmological Constants>**
+- 🚀 Building: **< Ignis Rocket Flight Simulator >**
+- ✍️ Writing: **< Research Notes >**
+
+---
+
+# 🧪 Featured Research Projects
+
+| Project       | Description   | Status    |
+| ------------- | ------------- | --------- |
+| IGNIS         | Rocket Flight | P1        |
+|               | Simulator     | Completed |
+|               |               |           |
+| Paper         |               | In        |
+| Reproductions | Inflation     | Progress  |
+
+---
+
+# 📚 Current Reading List
+
+- ☐ Paper 1
+- ☐ Paper 2
+- ☐ Paper 3
+- ☐ Paper 4
+- ☐ Book 1
+- ☐ Book 2
+
+---
+
+# 🛠 Tech Stack
+
+## Programming
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,js,git,github,vscode"/>
+
+</p>
+
+---
+
+## Scientific Computing
+
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Physics & Astronomy
+
+- EinsteinPy
+- Astropy
+- CAMB
+- CLASS
+- healpy
+- Lightkurve
+- emcee
+- Cobaya
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight">
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=<username>&theme=tokyonight">
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=<username>&theme=tokyo-night">
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🏅 IIT Mandi SkyQues 3rd Winner
+- 🏅 SIH Finalists r2 2025
+- 🏅 VP of Society For Aerospace And Space Technology
+
+---
+
+# 📖 Publications
+
+Coming Soon...
+
+---
+
+# 📷 Gallery
+
+```
+images/
+
+banner.gif
+
+workspace.png
+
+simulation.png
+
+figure1.png
+
+paper.png
+```
+
+---
+
+# 🎯 2026 Goals
+
+- [ ] Reproduce first research paper
+- [ ] Publish research notes
+- [ ] Learn General Relativity
+- [ ] Learn Quantum Field Theory
+- [ ] Build cosmology simulation package
+- [ ] Contribute to open-source scientific software
+- [ ] Read 50 research papers
+
+---
+
+# 🌠 Quote
+
+> _"I will take responsibility for what I have done. If I must fall, I will rise each time a better man." -Brandon Sanderson_
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+<img src="images/footer.gif" width="100%">
+
+</div>
