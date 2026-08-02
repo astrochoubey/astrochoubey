@@ -2,7 +2,7 @@
 
 # Hi there! I'm Choubey!
 
-### _Aspiring Theoretical Physicist • Cosmologist • Astrophysist_
+### _Aspiring Theoretical Physicist • Cosmologist • Astrophysicist_
 
 <img src="images/Iron Man GIF.gif" width="100%">
 
@@ -139,15 +139,9 @@ Current Goal: Reproduce landmark cosmology papers and contribute
 
 ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20Cosmologist%20of%20the%20Galaxyy.&theme=shadow&color=%233b82f6&particleColor=%23010b13&background=%2337a0e1)
 
----
-
 ![astrochoubey's GitHub Stats](https://readme-stats-github.pages.dev/api?username=astrochoubey&theme=shadow)
 
----
-
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=astrochoubey&theme=shadow)
-
----
 
 # 📊 Contribution Graph
 
