@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there! 👋 I'm <Choubey>
+# Hi there! I'm Choubey!
 
-### _Aspiring Theoretical Physicist • Cosmologist • Astrophysicsit_
+### _Aspiring Theoretical Physicist • Cosmologist • Astrophysit_
 
-<img src="images/banner.gif" width="100%">
+<img src="images/badass ironman GIF.gif" width="100%">
 
 ---
 
