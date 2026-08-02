@@ -4,7 +4,7 @@
 
 ### _Aspiring Theoretical Physicist • Cosmologist • Astrophysit_
 
-<img src="/images/badass ironman GIF.gif" width="100%">
+<img src="images/Iron Man GIF.gif" width="100%">
 
 ---
 
