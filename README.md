@@ -138,24 +138,22 @@ Current Goal: Reproduce landmark cosmology papers and contribute
 # 📈 GitHub Statistics
 
 ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20Cosmologist%20of%20the%20Galaxyy.&theme=shadow&color=%233b82f6&particleColor=%23010b13&background=%2337a0e1)
-![astrochoubey's GitHub Stats](https://readme-stats-github.pages.dev/api?username=astrochoubey&theme=shadow)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=astrochoubey&theme=shadow)
 
 ---
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=<username>&theme=tokyonight">
-
+![astrochoubey's GitHub Stats](https://readme-stats-github.pages.dev/api?username=astrochoubey&theme=shadow)
 </p>
-
 ---
-
+<p align="center">
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=astrochoubey&theme=shadow)
+</p>
+---
 # 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<username>&theme=tokyo-night">
+<img src="images/github-contributions_1.5x_postspark_2026-08-02_21-56-53.png">
 
 </p>
 
