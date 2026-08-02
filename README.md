@@ -23,7 +23,7 @@
 # 🌌 About Me
 
 ```yaml
-### Prachi Choubey
+Prachi Choubey
 
 University: Newton School of Technology, Rishihood University
 
@@ -137,13 +137,9 @@ Current Goal: Reproduce landmark cosmology papers and contribute
 
 # 📈 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight">
-
-</p>
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=The%20Cosmologist%20of%20the%20Galaxyy.&theme=shadow&color=%233b82f6&particleColor=%23010b13&background=%2337a0e1)
+![astrochoubey's GitHub Stats](https://readme-stats-github.pages.dev/api?username=astrochoubey&theme=shadow)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=astrochoubey&theme=shadow)
 
 ---
 
