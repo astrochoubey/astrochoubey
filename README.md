@@ -2,7 +2,7 @@
 
 # Hi there! I'm Choubey!
 
-### _Aspiring Theoretical Physicist • Cosmologist • Astrophysit_
+### _Aspiring Theoretical Physicist • Cosmologist • Astrophysist_
 
 <img src="images/Iron Man GIF.gif" width="100%">
 
