@@ -4,14 +4,14 @@
 
 ### _Aspiring Theoretical Physicist • Cosmologist • Astrophysit_
 
-<img src="images/badass ironman GIF.gif" width="100%">
+<img src="/images/badass ironman GIF.gif" width="100%">
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=astrochoubey&style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](portfolio-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([linkedin](https://www.linkedin.com/in/prachi-choubeyyy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prachi-choubeyyy/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?hl=en&authuser=1&user=pdxQ6LcAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0008-0481-3021)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:prachichoubey.thenexusphysics@gmail.com)
@@ -23,7 +23,7 @@
 # 🌌 About Me
 
 ```yaml
-Name: Prachi Choubey
+### Prachi Choubey
 
 University: Newton School of Technology, Rishihood University
 
@@ -60,10 +60,10 @@ Current Goal: Reproduce landmark cosmology papers and contribute
 
 # 🔭 Current Research
 
-- 📖 Reading: **< Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant>**
-- 🧠 Studying: **< Cosmic Inflation and Cosmological Constants>**
-- 🚀 Building: **< Ignis Rocket Flight Simulator >**
-- ✍️ Writing: **< Research Notes >**
+- 📖 Reading: **_Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant_**
+- 🧠 Studying: **_Cosmic Inflation and Cosmological Constants_**
+- 🚀 Building: **_Ignis Rocket Flight Simulator_**
+- ✍️ Writing: **_Research Notes_**
 
 ---
 
@@ -81,12 +81,12 @@ Current Goal: Reproduce landmark cosmology papers and contribute
 
 # 📚 Current Reading List
 
-- ☐ Paper 1
-- ☐ Paper 2
-- ☐ Paper 3
-- ☐ Paper 4
-- ☐ Book 1
-- ☐ Book 2
+- ☐ Observational Evidence from Supernovae for an Accelerating Universe and a Cosmological Constant
+- ☐ Strong Progenitor Age-bias in Supernova Cosmology. II. Alignment with DESI BAO and Signs of a Non-Accelerating Universe
+- ☐ Pantheon+ supernovae corrected for progenitor age indicate the universe is decelerating
+- ☐ Still Accelerating: Type Ia supernova cosmology is robust to host galaxy age evolution
+- ☐ East of Eden
+- ☐ Pet Semetary
 
 ---
 
