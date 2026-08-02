@@ -141,14 +141,14 @@ Current Goal: Reproduce landmark cosmology papers and contribute
 
 ---
 
-<p align="center">
 ![astrochoubey's GitHub Stats](https://readme-stats-github.pages.dev/api?username=astrochoubey&theme=shadow)
-</p>
+
 ---
-<p align="center">
+
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=astrochoubey&theme=shadow)
-</p>
+
 ---
+
 # 📊 Contribution Graph
 
 <p align="center">
